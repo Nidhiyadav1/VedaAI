@@ -252,7 +252,3 @@ Visit [http://localhost:3000](http://localhost:3000)
 5. Add all env variables from `backend/.env`
 
 ---
-
-## License
-
-MIT
